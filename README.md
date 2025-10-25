@@ -2,7 +2,7 @@
 
 This project leverages machine learning and digital twin concepts to analyze and predict chemical compositions from recycled battery blackmass, forecast metal prices, and detect anomalies in material composition.
 
-## 📊 Project Overview
+## Project Overview
 
 The goal is to simulate and optimize the battery recycling process by:
 - Merging operational and chemical data from recycled battery bags.
@@ -13,7 +13,7 @@ The goal is to simulate and optimize the battery recycling process by:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Machine Learning: Random Forest, Decision Tree, Isolation Forest
@@ -22,7 +22,7 @@ The goal is to simulate and optimize the battery recycling process by:
 
 ---
 
-## 📂 Dataset Structure
+## Dataset Structure
 
 - `Bag_dataset.csv`: Contains source ID, processing date, and weight of battery recycling bags.
 - `Blackmass.csv`: Composition analysis results of processed blackmass.
@@ -30,7 +30,7 @@ The goal is to simulate and optimize the battery recycling process by:
 
 ---
 
-## 🔍 Features
+## Features
 
 - Data merging and preprocessing
 - Normalization of chemical elements
@@ -41,7 +41,7 @@ The goal is to simulate and optimize the battery recycling process by:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```bash
 # Install dependencies
